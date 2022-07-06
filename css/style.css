@@ -16,6 +16,10 @@ h2 {
     font-size: 40px;
 }
 
+h3 {
+    font-size: 28px;
+}
+
 h4 {
     color: rgb(178, 161, 161);
 }
@@ -88,4 +92,50 @@ hr {
     border: 2px solid orange;
     color: orange;
     border-radius: 10px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+#donate-plan-para {
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.donate-plan .donate-sector {
+    width: 100%;
+}
+
+.donate-plan .donate-sector .donate-food {
+    background-color: rgb(234, 241, 246);
+    text-align: left;
+    padding: 30px;
+    width: 30%;
+    margin: 10px;
+}
+
+.donate-plan .donate-sector .donate-shelter {
+    background-color: rgb(246, 230, 232);
+    text-align: left;
+    padding: 30px;
+    width: 30%;
+    margin: 10px;
+}
+
+.donate-plan .donate-sector .donate-education {
+    background-color: rgb(240, 231, 166);
+    text-align: left;
+    padding: 30px;
+    width: 30%;
+    margin: 10px;
+}
+
+.donate-plan .donate-sector p {
+    font-size: 15px;
 }
