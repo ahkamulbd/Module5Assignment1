@@ -149,6 +149,35 @@ hr {
     margin-bottom: 100px;
 }
 
-.form-part {
-    background-color: lightgoldenrodyellow;
+.form-container {
+    background-color: rgb(228, 208, 211);
+    width: 100%;
+    height: 100px;
+    padding-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.get-update p {
+    font-size: 18px;
+    color: rgb(161, 143, 143);
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+#email {
+    background-color: rgb(240, 228, 228);
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 0;
+}
+
+#submit {
+    background-color: rgb(182, 60, 60);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 0;
 }
