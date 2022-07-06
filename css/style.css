@@ -12,6 +12,14 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-size: 40px;
+}
+
+h4 {
+    color: rgb(178, 161, 161);
+}
+
 .upper-para {
     color: white;
     padding: 50px;
@@ -37,4 +45,47 @@ h1 {
     text-align: center;
     padding: 100px 300px;
     margin-bottom: 100px;
+}
+
+.donate-today {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+}
+
+.display-flexible {
+    display: flex;
+}
+
+.money-amount {
+    width: 100%;
+    text-align: center;
+}
+
+.money-amount div {
+    width: 15%;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: rgb(237, 232, 232);
+    margin: 2%;
+    padding: 30px;
+    margin-bottom: 70px;
+}
+
+.donate-today p {
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+hr {
+    margin-bottom: 50px;
+}
+
+#color-marked {
+    border: 2px solid orange;
+    color: orange;
+    border-radius: 10px;
 }
