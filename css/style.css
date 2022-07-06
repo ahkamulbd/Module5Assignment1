@@ -198,3 +198,32 @@ footer h6 {
     text-align: center;
     font-size: 16px;
 }
+
+/* .donation-collection {
+    width: 100%;
+}*/
+
+.donation-collection .half-width {
+    width: 90%;
+    padding: 20px;
+}
+
+#donation-collection-para {
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.donation-collection .half-width h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.donation-collection .half-width p {
+    text-align: justify;
+    font-size: 15px;
+    color: rgb(70, 66, 66);
+}
+
+.donation-collection .half-width div {
+    margin-bottom: 70px;
+}
