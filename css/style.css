@@ -227,3 +227,49 @@ footer h6 {
 .donation-collection .half-width div {
     margin-bottom: 70px;
 }
+
+.major-partner {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 50px 30px;
+    background-image: url(/icons/frame1.png);
+    background-repeat: no-repeat;
+}
+
+.major-partner h2 {
+    margin-bottom: 100px;
+    color: tomato;
+}
+
+.major-partner .figure-style {
+    text-align: center;
+}
+
+.major-partner .figure-style figure {
+    width: 50%;
+}
+
+#figure1 {
+    border-right: 5px solid orange;
+    margin-right: 2px;
+}
+
+#figure2 {
+    border-left: 5px solid orange;
+    margin-left: 2px;
+    padding-top: 50px;
+}
+
+#figure1 figcaption {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(232, 72, 72);
+}
+
+#figure2 figcaption {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(213, 119, 213);
+    padding-top: 20px;
+}
